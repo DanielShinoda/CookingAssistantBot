@@ -1,7 +1,7 @@
 # CookingAssistantBot
-
-![image](https://user-images.githubusercontent.com/57168013/126201600-541bd4a4-ac91-43ba-9fdd-cb9e605dac44.png)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57168013/126201600-541bd4a4-ac91-43ba-9fdd-cb9e605dac44.png"/>
+</p>
 
 https://t.me/CookingAssistantBot
 
