@@ -26,3 +26,5 @@ https://t.me/CookingAssistantBot
 
 
 По всем вопросам и предложениям: Хайбулин Даниэль,  https://t.me/kiDaniel
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Ffree-icon%2Fchef-hat_15289349.htm&psig=AOvVaw1d-js_bS_fj_tSYeM0I6mw&ust=1626801909102000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjSyPvT7_ECFQAAAAAdAAAAABAD
