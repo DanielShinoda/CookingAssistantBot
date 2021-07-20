@@ -53,7 +53,7 @@ similar_meal_finder = SimilarMealFinder.from_csv_path('database.csv')
 
 
 # Токен бота
-bot = telebot.TeleBot('__token__')
+bot = telebot.TeleBot('1831559298:AAEDJWreB6oq14zx9w3U38xEG_EA4uOJl04')
 
 # В качестве структуры для холодильника возьмём defaultdict из библиотеки collections
 # Вообще, изучаю способы подключения SQL базы данных
